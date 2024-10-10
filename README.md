@@ -155,7 +155,7 @@ In this project, you practiced how using `.forEach()`, `.map()`, `.filter()`, an
 
 💾 **Not something to copy and paste** 💾
 
-**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aiad-jse-08-array-of-objects-iterator/tree/solution) (link not shown).
+**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-08-array-of-objects-iterator/tree/solution) (link not shown).
 
 
 
